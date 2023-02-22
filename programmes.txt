@@ -1,0 +1,200 @@
+GY12;101 kiskutya;rajzfilm;NULL
+SF10;2001: Űrodüsszeia;sci-fi;12
+IS01;80 nap alatt a Föld körül;ismeretterjesztő;NULL
+NA05;A Parlamentből;hír;18
+SO04;A Szupercsapat;akció;12
+XX09;A barna nyúl;pornó;18
+HO04;A bolygó neve: Halál;horror;18
+AK11;A függetlenség napja;akció;12
+AN36;A halott menyasszony;animációs;NULL
+GY06;A hercegnő és a béka;rajzfilm;NULL
+AK05;A hihetetlen Hulk;akció;12
+AN21;A hihetetlen család 1.;animációs;NULL
+AN22;A hihetetlen család 2.;animációs;NULL
+SO25;A holnap legendái;sci-fi;12
+GY18;A kis hableány;rajzfilm;NULL
+SF09;A kétszázéves ember;sci-fi;NULL
+HO01;A kör;horror;18
+HO11;A lény;horror;16
+SF17;A majmok bolygója;sci-fi;12
+HO03;A nyolcadik utas: a Halál;horror;18
+HO10;A ragyogás;horror;18
+KR01;A rózsa neve;krimi;16
+GY19;A szépség és a szörnyeteg;rajzfilm;NULL
+FA05;A varázslótanonc;fantasy;12
+IS05;A világ csodái;ismeretterjesztő;18
+IS07;A világ nagyjai;ismeretterjesztő;NULL
+GY16;A vándorló palota;rajzfilm;NULL
+HO07;A végső megoldás: Halál;horror;18
+VI03;A végzet pengetője;vígjáték;12
+SO10;A zöld íjász;akció;14
+AN01;Agymanók;animációs;NULL
+SO01;Agymenők;sit-com;12
+XX02;Akit félszeműnek hívnak;pornó;18
+NA06;Aktuális;hír;NULL
+GY22;Aladdin;rajzfilm;NULL
+HO09;Alien vs. Predator - A Halál a Ragadozó ellen;horror;18
+RO04;Aludj csak, én álmodom;romantikus;NULL
+FA01;Alíz Csodaországban;fantasy;NULL
+IS04;Amerika titkai;ismeretterjesztő;NULL
+GY09;Anasztázia;rajzfilm;NULL
+AN06;Apróláb;animációs;NULL
+AN32;Aranyhaj és a nagy gubanc;animációs;NULL
+AK14;Armageddon;akció;12
+SO15;Avatar;sci-fi;12
+IS06;Az evolúció nyomában;ismeretterjesztő;NULL
+SO18;Az ifjú Sheldon;vígjáték;NULL
+GY23;Az oroszlánkirály;rajzfilm;NULL
+SF15;Az éhezők viadala;sci-fi;16
+XX03;Az érzékek birodalma;pornó;18
+DR04;Az ördög ügyvédje;dráma;16
+AN03;Az öt legenda;animációs;NULL
+SF16;Az ötödik elem;sci-fi;12
+GY05;Bambi;rajzfilm;NULL
+VI01;Banditák;vígjáték;NULL
+CS05;Beethoven;családi;NULL
+SZ04;Big Brother;show;12
+AN07;Bébi úr;animációs;NULL
+XX04;Caligula;pornó;18
+DR02;Casablanca;dráma;12
+GY20;Chihiro szellemországban;rajzfilm;NULL
+AN33;Coco;animációs;NULL
+SZ08;Code Preview;show;NULL
+SO09;Csillagkapu;sci-fi;12
+FA02;Csillagok háborúja;fantasy;12
+FA03;Csillagpor;fantasy;12
+AN04;Csizmás, a kandúr;animációs;NULL
+XX01;Deep Throat;pornó;18
+CS06;Dennis, a komisz;családi;NULL
+AK12;Die Hard;akció;16
+DR05;Egy asszony illata;dráma;18
+AN25;Egy bogár élete;animációs;NULL
+GY07;Egyiptom hercege;rajzfilm;NULL
+SF01;Equilibrium;sci-fi;16
+SF11;Eredet;sci-fi;16
+GY17;Eszeveszett birodalom;rajzfilm;NULL
+IS03;Európa háborúi;ismeretterjesztő;12
+NA04;Európai Parlament;hír;NULL
+HO08;Feltámad a Halál;horror;18
+AN11;Ferdinánd;animációs;NULL
+SO03;Flash, a villám;sci-fi;12
+CS07;Hazudj, ha tudsz;családi;12
+MU02;Hegedűs a háztetőn;musical;NULL
+GY15;Herkules;rajzfilm;NULL
+GY01;Hupikék törpikék;rajzfilm;NULL
+RO03;Ház a tónál;romantikus;12
+NA01;Hírműsor;hír;NULL
+GY14;Hófehérke és a hét törpe;rajzfilm;NULL
+AN34;Hős6os;animációs;NULL
+NA03;Időjárás;hír;NULL
+RO01;Igazából szerelem;romantikus;12
+XX07;Intimitás;pornó;18
+AK06;Jurassic Park;akció;12
+AN27;Jégvarázs 1.;animációs;NULL
+SO17;Jóbarátok;sit-com;12
+SZ05;Kabaré;show;NULL
+AN23;Karácsony Artúr;animációs;NULL
+FA04;Karácsonyi ének;fantasy;6
+SZ01;Ki mit tud?;show;NULL
+SO16;Ki vagy, Doki?;sci-fi;12
+XX10;Kilenc dal;pornó;18
+AK08;Kill Bill;akció;18
+XX12;Klip;pornó;18
+AN16;Kung Fu Panda 1.;animációs;NULL
+AN17;Kung Fu Panda 2.;animációs;NULL
+AN18;Kung Fu Panda 3.;animációs;NULL
+XX08;Kánikula;pornó;16
+AN35;L'ecsó;animációs;NULL
+DR01;Lelkük rajta;dráma;NULL
+SO05;MacGyver;akció;12
+GY02;Macskafogó;rajzfilm;NULL
+AN13;Madagaszkár 1.;animációs;NULL
+AN14;Madagaszkár 2.;animációs;NULL
+AN15;Madagaszkár 3.;animációs;NULL
+IS08;Magyarország állatvilága;ismeretterjesztő;NULL
+AN05;Malac a pácban;animációs;NULL
+AK13;Men in Black - Sötét zsaruk;akció;12
+AN12;Merida, a bátor;animációs;NULL
+GY11;Micimackó;rajzfilm;NULL
+SO08;Mindörökké;misztikus;12
+SO07;Mission: Impossible;akció;12
+AN02;Moana;animációs;NULL
+SO19;Mondd, hogy szeretsz;dráma;18
+RO02;Mondhatsz akármit;romantikus;12
+SO06;Monk, a flúgos nyomozó;dráma;12
+GY13;Mulan;rajzfilm;NULL
+SF02;Mátrix 1.;sci-fi;16
+SF03;Mátrix 2.;sci-fi;16
+SF04;Mátrix 3.;sci-fi;16
+MU03;Mókás arcok;musical;NULL
+NA08;Napi egyperc;hír;NULL
+FA06;Narnia krónikái;fantasy;NULL
+IS02;Négy évszak;ismeretterjesztő;NULL
+AN37;Némó nyomában;animációs;NULL
+VI02;Oscar;vígjáték;NULL
+DR03;Pillangó-hatás;dráma;16
+GY08;Pinokkió;rajzfilm;NULL
+AK09;Ponyvaregény;akció;18
+XX05;Portyán;pornó;18
+GY03;Praclifalva lakói;rajzfilm;NULL
+HO06;Prometheus;horror;18
+SZ07;Pénz Panasz;show;NULL
+HO05;Ragadozó;horror;18
+CS01;Reszkessetek, betörők 1.;családi;NULL
+CS02;Reszkessetek, betörők 2.;családi;NULL
+CS03;Reszkessetek, betörők 3.;családi;NULL
+AN24;Roger nyúl a pácban;animációs;NULL
+XX06;Románc;pornó;18
+AN26;Rontó Ralph;animációs;NULL
+SO13;Sherlock és Watson;krimi;12
+XX11;Shortbus;pornó;18
+AN39;Shrek 1.;animációs;NULL
+AN40;Shrek 2.;animációs;NULL
+AN41;Shrek 3.;animációs;NULL
+SO12;South Park;rajzfilm;18
+NA02;Sporthírek;hír;NULL
+SO20;Star Trek - Az eredeti sorozat;sci-fi;12
+SO21;Star Trek - Az új nemzedék;sci-fi;12
+SO22;Star Trek - Deep Space 9;sci-fi;12
+SO23;Star Trek - Enterprise;sci-fi;12
+SO24;Star Trek - Voyager;sci-fi;12
+GY04;Susi és Tekergő;rajzfilm;NULL
+AN38;Szenilla nyomában;animációs;NULL
+AK07;Szárnyas fejvadász;akció;16
+AN20;Szörny Egyetem;animációs;NULL
+AN19;Szörny Rt.;animációs;NULL
+SZ06;Tamás Show;show;NULL
+GY10;Tarzan;rajzfilm;NULL
+SF05;Terminátor - A halálosztó;sci-fi;18
+SF06;Terminátor 2. - Az ítélet napja;sci-fi;16
+SF07;Terminátor 3. - A gépek lázadása;sci-fi;16
+SZ02;The Voice;show;NULL
+AK01;Thor - Ragnarök;akció;12
+AN29;Toy Story 1.;animációs;NULL
+AN30;Toy Story 2.;animációs;NULL
+AN31;Toy Story 3.;animációs;NULL
+SF19;Transformers;sci-fi;12
+VI04;Truman Show;vígjáték;12
+SO11;Trónok harca;dráma;18
+CS04;Télapu;családi;NULL
+NA07;Tőzsde Index;hír;NULL
+SZ03;Való Világ;show;12
+AK02;Vasember 1.;akció;12
+AK03;Vasember 2.;akció;12
+AK04;Vasember 3.;akció;12
+AN08;Verdák 1.;animációs;NULL
+AN09;Verdák 2.;animációs;NULL
+AN10;Verdák 3.;animációs;NULL
+SF12;Vissza a jövőbe 1.;sci-fi;12
+SF13;Vissza a jövőbe 2.;sci-fi;12
+SF14;Vissza a jövőbe 3.;sci-fi;12
+GY21;Vuk;rajzfilm;NULL
+AN28;WALL-E;animációs;NULL
+SF18;X-men;sci-fi;12
+AN43;Zootropolis - Állati nagy balhé;animációs;NULL
+SO02;Zorro;akció;NULL
+AK10;Ál/arc;akció;16
+HO02;Átok;horror;18
+SF08;Én, a robot;sci-fi;12
+MU01;Ének az esőben;musical;NULL
+AN42;Így neveld a sárkányodat;animációs;NULL

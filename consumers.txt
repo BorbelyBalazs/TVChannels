@@ -1,0 +1,15 @@
+Borbély Balázs;40;false
+Monostori Edina;42;false
+Kovács Réka;14;false
+Beka Kálmán;28;true
+Masztur Bálint;34;true
+Nap Pál;18;true
+Vegetári János;18;false
+Rúgka Pál;15;false
+Wincs Eszter;8;false
+Pofá Zoltán;64;true
+Csege Vera;20;false
+Kasza Blanka;10;true
+Para Zita;54;false
+Békés Csaba;12;true
+Zsíros B. Ödön;58;true
